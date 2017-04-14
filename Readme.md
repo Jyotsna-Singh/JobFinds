@@ -15,6 +15,24 @@
  [JobFinds](http://jyotsnasingh.com/projects/CakePHP/Jobfinds/)
 
 
+## Usage
+
+**Home Page** | **View All Jobs**
+--- | ---
+Home Page JobFinds | View All Jobs
+![alt text](https://github.com/Jyotsna-Singh/JobFinds/blob/master/app/webroot/img/home.PNG "Home")  | ![alt text](https://github.com/Jyotsna-Singh/JobFinds/blob/master/app/webroot/img/search.PNG "All Jobs")
+
+**View Job Listing** | **Search By State, Keywords or Industry**
+--- | --- 
+View Job Listing | Search By State, Keywords or Industry  
+![alt text](https://github.com/Jyotsna-Singh/JobFinds/blob/master/app/webroot/img/view-job.PNG "View Job Listing")  | ![alt text](https://github.com/Jyotsna-Singh/JobFinds/blob/master/app/webroot/img/sort.png "Search jobs") 
+
+**Register** | **Add Job Listing**
+--- | --- 
+Create an Account by Registering | Add a Job Listing  
+![alt text](https://github.com/Jyotsna-Singh/JobFinds/blob/master/app/webroot/img/register.PNG "Register")  | ![alt text](https://github.com/Jyotsna-Singh/JobFinds/blob/master/app/webroot/img/add-job.PNG "Add Job Listing") 
+
+
 ## Vendors
 CakePHP - [http://cakephp.org/](http://cakephp.org/)  
  
