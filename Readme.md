@@ -28,7 +28,7 @@ Home Page JobFinds |
 
 **View All Jobs** |
  --- |
-	View All Jobs |
+View All Jobs |
 ![alt text](https://github.com/Jyotsna-Singh/JobFinds/blob/master/app/webroot/img/search.PNG "All Jobs") |
 
 **View Job Listing** |
